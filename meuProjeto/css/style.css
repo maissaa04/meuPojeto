@@ -1,0 +1,23 @@
+container{
+    background-color: black;
+    width: 900px;
+}
+.nav{
+    padding: 1px;
+    background-color: #708090;
+}
+.nav-link{
+    padding: 0.8rem;
+    text-decoration: none;
+    color: white;
+    font-style: oblique;
+}
+article{
+    padding: 0.8rem;
+    background-color: black;
+    color: white;
+}
+footer p{
+    text-align: start;
+    color: white;
+}
